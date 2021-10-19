@@ -10,7 +10,7 @@ public void createContatest() {
 	System.out.println(url);
 }
 @Test
-public void openContacttest() {
+public void opeContacttest() {
 	System.out.println("open contact");
 }
 }
